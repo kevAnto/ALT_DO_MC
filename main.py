@@ -1,1 +1,1 @@
-my new feature in development.
+Feature ready.
