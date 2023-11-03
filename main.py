@@ -1,1 +1,1 @@
-Feature ready.
+Feature ready
